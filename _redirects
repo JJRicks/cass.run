@@ -11,8 +11,10 @@
 /blog           https://jjricks.com/mission-blog
 /jyan           https://www.juliannesmission.com
 /redirects      https://github.com/JJRicks/cass.run/blob/main/_redirects
+/shortcuts      https://github.com/JJRicks/cass.run/blob/main/_redirects
 /MusicMan2023   https://drive.google.com/file/d/1CO74yx_hzjXac5ZhIL2WeYBE4kyxnF31/view?usp=sharing
 /musicman2023   https://drive.google.com/file/d/1CO74yx_hzjXac5ZhIL2WeYBE4kyxnF31/view?usp=sharing
+/adblocker      https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 
 #fallback
 /*              https://jjricks.com
